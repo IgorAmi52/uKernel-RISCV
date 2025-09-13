@@ -1,0 +1,74 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Assembly listings
+*.lst
+
+# Debug files
+*.pdb
+*.idb
+
+# Build directories
+/build/
+/bin/
+/Debug/
+*/Debug/
+*/Release/
+*.log
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other IDE files
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# Generated files
+*.map
+
+# Backup files
+*~
+*.bak
+
+# Tags
+tags
+TAGS
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
